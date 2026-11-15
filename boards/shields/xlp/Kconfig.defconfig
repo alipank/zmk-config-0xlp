@@ -1,0 +1,6 @@
+if SHIELD_XLP
+
+config ZMK_KEYBOARD_NAME
+    default "0xlp"
+
+endif # SHIELD_XLP
